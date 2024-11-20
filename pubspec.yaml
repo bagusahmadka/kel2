@@ -46,3 +46,11 @@ flutter:
     - assets/images/logo_undip.png
     - assets/images/logo_polkesmar.png
     - assets/images/logo_unnes.png
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.otf
+          weight: 700
+        - asset: assets/fonts/Poppins-Italic.otf
+          style: italic
